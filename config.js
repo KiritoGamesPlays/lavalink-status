@@ -8,7 +8,7 @@ module.exports = {
       HOST: "http://181.215.45.8:2333/v4",
       PASSWORD: "kirito",
     },
-    PORT: 3000,
+    PORT: 22021,
     API_TIMEOUT: 50000,
   };
   
