@@ -70,7 +70,8 @@ const corsOptions = {
   origin: function (origin, callback) {
     const allowedOrigins = [
       'https://status.lavalink.rocks',  // Existing domain
-      'https://api.lavalink.rocks'  
+      'https://api.lavalink.rocks',
+      "http://100.118.177.5:22021"
    // Add additional domains as needed
     ];
 
